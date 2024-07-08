@@ -1,6 +1,6 @@
 ### README.md
 
-```
+
 # Blog Management System
 
 This is a simple blog management system where users can create, read, update, and delete blogs. It utilizes Node.js and MongoDB on the backend for data storage and retrieval. Bootstrap is used for frontend styling to ensure a responsive and visually appealing user interface.
@@ -49,7 +49,7 @@ Contributions are welcome! Feel free to open issues and pull requests.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
 ### About
 
