@@ -3,7 +3,7 @@
 
 # Blog Management System
 
-This is a simple blog management system where users can create, read, update, and delete blogs. It utilizes Node.js and MongoDB on the backend for data storage and retrieval. Bootstrap is used for frontend styling to ensure a responsive and visually appealing user interface.
+This is a simple blog management system where users can create, read, update, and delete blogs. It utilizes Node.js and MongoDB on the backend for data storage and retrieval. Bootstrap is used for front-end styling to ensure a responsive and visually appealing user interface.
 
 ## Features
 
@@ -79,7 +79,7 @@ The Blog Management System is a web application designed to facilitate the creat
 
 ### Contact
 
-For questions or feedback, please contact us at your@email.com. We appreciate your interest in our Blog Management System!
-```
+For questions or feedback, please get in touch with us at pradeep1205k@gmail.com. We appreciate your interest in our Blog Management System!
+
 
 
