@@ -53,10 +53,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### About
 
-```markdown
+'''
 ## About Blog Management System
 
-The Blog Management System is a web application designed to facilitate the creation and management of blogs. It provides a user-friendly interface where users can create new blog posts, view existing ones, and delete blogs as needed. The system is built using Node.js on the backend for server-side logic and MongoDB for data storage. Bootstrap is used for frontend styling to ensure responsiveness and a modern look.
+The Blog Management System is a web application designed to facilitate the creation and management of blogs. It provides a user-friendly interface where users can create new blog posts, view existing ones, and delete blogs as needed. The system uses Node.js on the backend for server-side logic and MongoDB for data storage. Bootstrap is used for frontend styling to ensure responsiveness and a modern look.
 
 ### Key Features
 
@@ -82,4 +82,4 @@ The Blog Management System is a web application designed to facilitate the creat
 For questions or feedback, please contact us at your@email.com. We appreciate your interest in our Blog Management System!
 ```
 
-Feel free to customize the README and About sections further based on additional features or specific details of your project!
+
